@@ -16,5 +16,14 @@ Modern dark/light theme (optional)
 
 Links to social profiles and projects
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-15 6 20 38 PM" src="https://github.com/user-attachments/assets/558bbc48-55fa-4e7d-83a1-4db03bb48fd6" />
+📸 Preview
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-15 6 20 18 PM" src="https://github.com/user-attachments/assets/3326bb03-49fe-4fad-911f-81321166c6f2" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-15 6 28 55 PM" src="https://github.com/user-attachments/assets/4dd7699b-5c25-4b07-bb99-c1b4a3c54c62" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-10-15 6 29 08 PM" src="https://github.com/user-attachments/assets/1576e699-6808-42cd-9256-1516ee839d40" />
+
+
+
 
